@@ -1,0 +1,4 @@
+Tube7seg	KEYWORD1
+writeDisp	KEYWORD2
+
+DIGIT	LITERAL1

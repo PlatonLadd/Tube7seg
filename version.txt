@@ -1,0 +1,8 @@
+20150429 0.8.3
+* added function writeDisp(uint8_t *digs)
+* added example countner
+
+20150428 0.8.2
+* first functional class Tube7seg
+* examples: first, pi, analog
+* no documentation :-(
