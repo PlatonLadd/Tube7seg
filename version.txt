@@ -1,3 +1,6 @@
+20150430 v0.8.5
+* upload to GitHub
+
 20150429 0.8.3
 * added function writeDisp(uint8_t *digs)
 * added example countner
