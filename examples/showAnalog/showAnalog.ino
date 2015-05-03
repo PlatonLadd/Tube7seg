@@ -1,3 +1,13 @@
+/*
+
+The document is publised under
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+https://github.com/PlatonLadd/Tube7seg/blob/master/LICENSE
+
+*/
+
 #include "Tube7seg.h"
 
 Tube7seg disp(2, 3, 4);
