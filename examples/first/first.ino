@@ -1,3 +1,14 @@
+/*
+
+The document is publised under
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+https://github.com/PlatonLadd/Tube7seg/blob/master/LICENSE
+
+*/
+
+
 #include <Arduino.h>
 #include "Tube7seg.h"
 
