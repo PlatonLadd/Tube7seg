@@ -1,3 +1,13 @@
+/*
+
+The document is publised under
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+https://github.com/PlatonLadd/Tube7seg/blob/master/LICENSE
+
+*/
+
 /* show pi = 3.14 on display */
 
 #include "Tube7seg.h"
